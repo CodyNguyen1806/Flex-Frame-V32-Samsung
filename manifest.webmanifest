@@ -1,0 +1,25 @@
+{
+  "name": "Flex Frame Samsung",
+  "short_name": "Flex Samsung",
+  "description": "Trình chỉnh sửa khung Flex dựa trên V32",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8edf2",
+  "theme_color": "#e8edf2",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
